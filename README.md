@@ -1,2 +1,2 @@
-# Flaml
+# [FLAML](https://github.com/microsoft/FLAML)
 FLAML is a lightweight Python library that finds accurate machine learning models automatically, efficiently and economically. It frees users from selecting learners and hyperparameters for each learner. It is fast and economical. The simple and lightweight design makes it easy to extend, such as adding customized learners or metrics. FLAML is powered by a new, cost-effective hyperparameter optimization and learner selection method invented by Microsoft Research.
